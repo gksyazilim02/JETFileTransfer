@@ -1,4 +1,4 @@
-# 🖥️ JET File Transfer (Veri Aktarım Aracı)
+# 🖥️ JET File Transfer (Hızlı Dosya Transferi)
 
 ## JET File Transfer, yerel ağ (Wi-Fi/Ethernet) üzerindeki akıllı telefonlar ve bilgisayarlar arasında, özellikle Pardus ve Windows işletim sistemlerinde, küçük ve büyük boyutlu dosyaların hızlı, güvenli ve kablosuz olarak aktarılmasını sağlayan Qt tabanlı bir masaüstü sunucu uygulamasıdır.
 
