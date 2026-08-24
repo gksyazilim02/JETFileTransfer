@@ -16,7 +16,7 @@ Ek olarak proje kapsamında geliştirilen mobil uygulama ve msaüstü uygulamala
   [🔗 JET File Transfer İndir](http://www.gksyazilim.org/debs/pardus-lan-share-pkgv2.deb)
 
 * 🪟 **Windows İşletim Sistemi İçin Kurulum Dosyası (Setup):**  
-  [🔗 JET File Transfer Windows Kurulumu İndir](https://github.com/gucluyurekler0/Pardus-LAN-Share/raw/main/PardusLanShare_Setup.exe)
+  [🔗 JET File Transfer Windows Kurulumu İndir](https://github.com/gksyazilim02/JETFileTransfer/blob/main/JET_File_Transfer_GKS_Setup.exe)
 
 ------
 
