@@ -29,8 +29,8 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 ## 📷 Android Mobil Uygulama Ekran Görüntüleri
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/scr1.jpg" alt="Ana Ekran 1" width="300"/>
-  <img src="" alt="Ana Ekran 1" width="300"/>
+  <img src="https://github.com/gksyazilim02/JETFileTransfer/blob/main/scr1.jpg" alt="Ana Ekran 1" width="300"/>
+ 
 
   
 </p>
@@ -84,7 +84,7 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 
 
 
-![JET File Transfer](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/scr2.jpg)
+![JET File Transfer](https://github.com/gksyazilim02/JETFileTransfer/blob/main/scr1.jpg)
 
 ---
 
