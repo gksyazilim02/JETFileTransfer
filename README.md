@@ -5,7 +5,7 @@
 Ek olarak proje kapsamında geliştirilen mobil uygulama ve msaüstü uygulamaları sayesinde Milli Eğitim Bakanlığına bağlı Pardus işletim sistemi yüklü tüm tahtalarda öğretmenlerin kolaylıkla cep telefonlarından akıllı tahtaya dosyalar ve metinleri aktararak öğrencilere sunmaları hedeflenmektedir.
 
 ------
-## JET File Transfer'in Android istemcisi ile aynı yerel ağ üzerindeki dosyaları mobil cihazınızdan PARDUS işetim sistemine güvenli olarak gönderebilirsiniz.
+## JET File Transfer'in Android istemcisi ile aynı yerel ağ üzerindeki dosyaları mobil cihazınızdan PARDUS ve Windows işletim sistemine güvenli olarak gönderebilirsiniz.
 ## Öncelikle  PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.gksyazilim.parduslansharemobile) JET File Transfer isimli mobil uygulamayı Android cihazınıza kurmalısınız
 
 ## Mobil uygulamayı kurduktan sonra bu linkte yer alan deb paketini indirerek Pardus işletim sisteminize kurabilir ve cep telefonunuz üzerinden aynı ağda yer alan pardus işetim sisteminize dosya transferini yapabilirsiniz.
@@ -40,7 +40,7 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 
 # 📱 Kullanım
 
-1. Uygulamayı Pardus üzerinde çalıştırın.
+1. Uygulamayı Windows/Pardus üzerinde çalıştırın.
 2. **Sunucu IP Adresi** bölümünde görünen QR kodu mobil uygulama üzerinden taratın veya ekranda görüne IP numarası ve parola ile uygulamaya giriniz. (Örn: `192.168.1.50`)
 3. Aynı Wi-Fi ağına bağlı telefonunuzdaki istemci uygulamasından bu IP adresine bağlanın.
 4. Metin gönderdiğinizde düzenleme alanında görüntülenir.
