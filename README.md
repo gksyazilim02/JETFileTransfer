@@ -2,8 +2,6 @@
 
 ## JET File Transfer, yerel ağ (Wi-Fi/Ethernet) üzerindeki akıllı telefonlar ve bilgisayarlar arasında, özellikle Pardus ve Windows işletim sistemlerinde, küçük ve büyük boyutlu dosyaların hızlı, güvenli ve kablosuz olarak aktarılmasını sağlayan Qt tabanlı bir masaüstü sunucu uygulamasıdır.
 
-Ek olarak proje kapsamında geliştirilen mobil uygulama ve msaüstü uygulamaları sayesinde Milli Eğitim Bakanlığına bağlı Pardus işletim sistemi yüklü tüm tahtalarda öğretmenlerin kolaylıkla cep telefonlarından akıllı tahtaya dosyalar ve metinleri aktararak öğrencilere sunmaları hedeflenmektedir.
-
 ------
 ## JET File Transfer'in Android istemcisi ile aynı yerel ağ üzerindeki dosyaları mobil cihazınızdan PARDUS ve Windows işletim sistemine güvenli olarak gönderebilirsiniz.
 ## Öncelikle  PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.gksyazilim.parduslansharemobile) JET File Transfer isimli mobil uygulamayı Android cihazınıza kurmalısınız
