@@ -30,6 +30,7 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/scr1.jpg" alt="Ana Ekran 1" width="300"/>
+  <img src="" alt="Ana Ekran 1" width="300"/>
 
   
 </p>
@@ -85,9 +86,6 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 
 ![JET File Transfer](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/scr2.jpg)
 
-![JET File Transfer](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/parduslansharescr1.png)
-
-![JET File Transfer](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/parduslansharescr2.png)
 ---
 
 # 📄 Lisans
