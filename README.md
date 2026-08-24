@@ -1,29 +1,29 @@
-# 🖥️ Pardus LAN Share (Veri Aktarım Aracı)
+# 🖥️ JET File Transfer (Veri Aktarım Aracı)
 
-## Pardus LAN Share, yerel ağ (Wi-Fi/Ethernet) üzerindeki akıllı telefonlar ve bilgisayarlar arasında, özellikle Pardus ve Windows işletim sistemlerinde, küçük ve büyük boyutlu dosyaların hızlı, güvenli ve kablosuz olarak aktarılmasını sağlayan Qt tabanlı bir masaüstü sunucu uygulamasıdır.
+## JET File Transfer, yerel ağ (Wi-Fi/Ethernet) üzerindeki akıllı telefonlar ve bilgisayarlar arasında, özellikle Pardus ve Windows işletim sistemlerinde, küçük ve büyük boyutlu dosyaların hızlı, güvenli ve kablosuz olarak aktarılmasını sağlayan Qt tabanlı bir masaüstü sunucu uygulamasıdır.
 
 Ek olarak proje kapsamında geliştirilen mobil uygulama ve msaüstü uygulamaları sayesinde Milli Eğitim Bakanlığına bağlı Pardus işletim sistemi yüklü tüm tahtalarda öğretmenlerin kolaylıkla cep telefonlarından akıllı tahtaya dosyalar ve metinleri aktararak öğrencilere sunmaları hedeflenmektedir.
 
 ------
-## Pardus LAN Share'in Android istemcisi ile aynı yerel ağ üzerindeki dosyaları mobil cihazınızdan PARDUS işetim sistemine güvenli olarak gönderebilirsiniz.
-## Öncelikle  PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.gksyazilim.parduslansharemobile) Pardus LAN Share isimli mobil uygulamayı Android cihazınıza kurmalısınız
+## JET File Transfer'in Android istemcisi ile aynı yerel ağ üzerindeki dosyaları mobil cihazınızdan PARDUS işetim sistemine güvenli olarak gönderebilirsiniz.
+## Öncelikle  PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.gksyazilim.parduslansharemobile) JET File Transfer isimli mobil uygulamayı Android cihazınıza kurmalısınız
 
 ## Mobil uygulamayı kurduktan sonra bu linkte yer alan deb paketini indirerek Pardus işletim sisteminize kurabilir ve cep telefonunuz üzerinden aynı ağda yer alan pardus işetim sisteminize dosya transferini yapabilirsiniz.
 
 ### 📥 Uygulama İndirme Linkleri
 
 * 🐧 **Pardus / Linux İşletim Sistemi İçin (.deb):**  
-  [🔗 Pardus LAN Share İndir](http://www.gksyazilim.org/debs/pardus-lan-share-pkgv2.deb)
+  [🔗 JET File Transfer İndir](http://www.gksyazilim.org/debs/pardus-lan-share-pkgv2.deb)
 
 * 🪟 **Windows İşletim Sistemi İçin Kurulum Dosyası (Setup):**  
-  [🔗 Pardus LAN Share Windows Kurulumu İndir](https://github.com/gucluyurekler0/Pardus-LAN-Share/raw/main/PardusLanShare_Setup.exe)
+  [🔗 JET File Transfer Windows Kurulumu İndir](https://github.com/gucluyurekler0/Pardus-LAN-Share/raw/main/PardusLanShare_Setup.exe)
 
 ------
 
 ## 📱 Android İstemcisi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
- **Pardus LAN Share Mobile:**  
+ **JET File Transfer Mobile:**  
 Github : https://github.com/gucluyurekler0/PardusLanShareMobile <br>
 Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazilim.parduslansharemobile)
 ## 📷 Android Mobil Uygulama Ekran Görüntüleri
@@ -83,11 +83,11 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 
 
 
-![Pardus LAN Share](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/scr2.jpg)
+![JET File Transfer](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/scr2.jpg)
 
-![Pardus LAN Share](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/parduslansharescr1.png)
+![JET File Transfer](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/parduslansharescr1.png)
 
-![Pardus LAN Share](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/parduslansharescr2.png)
+![JET File Transfer](https://raw.githubusercontent.com/gucluyurekler0/Pardus-LAN-Share/main/screenshots/parduslansharescr2.png)
 ---
 
 # 📄 Lisans
