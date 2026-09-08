@@ -82,7 +82,7 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 
 
 
-![JET File Transfer](https://github.com/gksyazilim02/JETFileTransfer/blob/main/scr1.jpg)
+![JET File Transfer](https://github.com/gksyazilim02/JETFileTransfer/blob/main/scr2.jpg)
 
 ---
 
