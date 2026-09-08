@@ -22,7 +22,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
  **JET File Transfer Mobile:**  
-Github : https://github.com/gucluyurekler0/PardusLanShareMobile <br>
 Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazilim.parduslansharemobile)
 ## 📷 Android Mobil Uygulama Ekran Görüntüleri
 
