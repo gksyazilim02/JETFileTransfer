@@ -11,7 +11,7 @@
 ### 📥 Uygulama İndirme Linkleri
 
 * 🐧 **Pardus / Linux İşletim Sistemi İçin (.deb):**  
-  [🔗 JET File Transfer İndir](https://github.com/gksyazilim02/JETFileTransfer/blob/main/jet-file-transfer-gks_1.0.0_amd64.deb)
+  [🔗 JET File Transfer İndir](https://github.com/gksyazilim02/JETFileTransfer/releases/download/jetfiletransfer/jet-file-transfer-gks_1.0.0_amd64.deb)
 
 * 🪟 **Windows İşletim Sistemi İçin Kurulum Dosyası (Setup):**  
   [🔗 JET File Transfer Windows Kurulumu İndir](https://github.com/gksyazilim02/JETFileTransfer/releases/download/jetfiletransfer/JET_File_Transfer_GKS_Setup.exe)
