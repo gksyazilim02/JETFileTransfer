@@ -86,8 +86,5 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 ---
 
 # 📄 Lisans
-Mobil Uygulama:
-Ücretsiz olarak kullanılabilir. Uygulama içerisinde reklamlar gösterilebilir.
-
 Masaüstü Yazılım:
 Ücretsiz olarak kullanılabilir ve reklam içermez.
