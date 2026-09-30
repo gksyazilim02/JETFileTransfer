@@ -40,7 +40,7 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 
 1. Uygulamayı Windows/Pardus üzerinde çalıştırın.
 2. **Sunucu IP Adresi** bölümünde görünen QR kodu mobil uygulama üzerinden taratın veya ekranda görüne IP numarası ve parola ile uygulamaya giriniz. (Örn: `192.168.1.50`)
-3. Aynı Wi-Fi ağına bağlı telefonunuzdaki istemci uygulamasından bu IP adresine bağlanın. ÖNEMLİ: Wi-Fi ağını kişisel erişim noktanızdan yapmanız daha hızlı ve daha güvenli bağlantıyı sağlayacaktır.Burada önemli nokta paylaşım yapan cihazların aynı ağda olmasıdır
+3. Aynı Wi-Fi ağına bağlı telefonunuzdaki istemci uygulamasından bu IP adresine bağlanın. ÖNEMLİ: Wi-Fi ağını kişisel erişim noktanızdan yapmanız daha hızlı ve daha güvenli bağlantıyı sağlayacaktır.Burada önemli nokta paylaşım yapan cihazların aynı ağda olmasıdır.
 4. Metin gönderdiğinizde düzenleme alanında görüntülenir.
 5. **Değişiklikleri Panoya Kopyala** butonuyla bilgisayar panosuna aktarabilirsiniz.
 6. Dosya gönderildiğinde sistem günlüğünün en üstünde görünür.
