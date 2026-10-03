@@ -45,7 +45,7 @@ Uygulama Dosyası : (https://play.google.com/store/apps/details?id=com.gksyazili
 5. **Değişiklikleri Panoya Kopyala** butonuyla bilgisayar panosuna aktarabilirsiniz.
 6. Dosya gönderildiğinde sistem günlüğünün en üstünde görünür.
 7. Dosyaya çift tıklayarak doğrudan açabilirsiniz.
-8. Dosyalarınız İndirilenler dizini altında PardusLanShare dizini altında kaydedilmektedir.
+8. Dosyalarınız İndirilenler dizini altında JETFileTransfer dizini altında kaydedilmektedir.
 
 ---
 
